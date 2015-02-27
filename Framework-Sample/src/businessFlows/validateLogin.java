@@ -11,7 +11,7 @@ import commonUtilities.driverInstance;
 import pageObjects.commonUrlPage;
 import pageObjects.fillFormPage;
 
-public class authenticationValidate extends driverInstance {
+public class validateLogin extends driverInstance {
 
 	
 	
