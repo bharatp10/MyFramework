@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 
 public class commonUrlPage {
 	
-	protected WebDriver driver;
+	public WebDriver driver;
 	
 	public commonUrlPage(WebDriver driver){
 		
